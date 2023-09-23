@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Project showcase</title>
-	<atom:link href="/https://replan01.github.io/website//feed/" rel="self" type="application/rss+xml" />
-	<link>/https://replan01.github.io/website/</link>
+	<atom:link href="https://replan01.github.io/website/feed/" rel="self" type="application/rss+xml" />
+	<link>https://replan01.github.io/website</link>
 	<description>faculty of technology</description>
 	<lastBuildDate>Fri, 22 Sep 2023 14:18:44 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.3.1</generator>
 
 <image>
-	<url>/https://replan01.github.io/website//wp-content/uploads/2023/09/download.png</url>
+	<url>https://replan01.github.io/website/wp-content/uploads/2023/09/download.png</url>
 	<title>Project showcase</title>
-	<link>/https://replan01.github.io/website/</link>
+	<link>https://replan01.github.io/website</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
